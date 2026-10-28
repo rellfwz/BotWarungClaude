@@ -1,3 +1,4 @@
+   # dependencies bot
    pyTelegramBotAPI
    python-dotenv
    requests
